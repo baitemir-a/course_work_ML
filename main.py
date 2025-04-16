@@ -16,7 +16,20 @@ def collect_text():
         "https://ru.wikipedia.org/wiki/Сбербанк",
         "https://ru.wikipedia.org/wiki/Владимир_Путин",
         "https://ru.wikipedia.org/wiki/Российская_Федерация",
-        "https://ru.wikipedia.org/wiki/Газпром"
+        "https://ru.wikipedia.org/wiki/Газпром",
+        "https://ru.wikipedia.org/wiki/Кремль",
+        "https://ru.wikipedia.org/wiki/Транснефть",
+        "https://ru.wikipedia.org/wiki/Роснефть",
+        "https://ru.wikipedia.org/wiki/Союз_Советских_Социалистических_Республик",
+        "https://ru.wikipedia.org/wiki/Байкал",
+        "https://ru.wikipedia.org/wiki/Эрмитаж",
+        "https://ru.wikipedia.org/wiki/Большой_театр",
+        "https://ru.wikipedia.org/wiki/Космонавтика_России",
+        "https://ru.wikipedia.org/wiki/Аэрофлот",
+        "https://ru.wikipedia.org/wiki/Третьяковская_галерея",
+        "https://ru.wikipedia.org/wiki/Лукойл",
+        "https://ru.wikipedia.org/wiki/Сибирь",
+        "https://ru.wikipedia.org/wiki/Урал"
     ]
     sentences = []
     for url in urls:
